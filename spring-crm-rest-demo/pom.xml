@@ -4,7 +4,7 @@
 	<modelVersion>*****</modelVersion>
 	<groupId>com.example.springdemo</groupId>
 	<artifactId>spring-crm-rest</artifactId>
-	<version>1.0.0</version>
+	<version>******</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -13,8 +13,8 @@
 		<mysql.connector.version>*****</mysql.connector.version>
 		<c3po.version>*****</c3po.version>
 
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>******</maven.compiler.source>
+		<maven.compiler.target>******</maven.compiler.target>
 	</properties>
 
 	<dependencies>
